@@ -23,6 +23,21 @@
 pkg install wget -y && wget -O Ubuntu-in-Termux.sh https://raw.githubusercontent.com/TechnoIndian/Ubuntu/main/Ubuntu-in-Termux.sh && chmod -R +x Ubuntu-in-Termux.sh && ./Ubuntu-in-Termux.sh
 ```
 
+## ︻デ═一 Update the packages after Ubuntu is installed
+```python
+apt update -y && apt upgrade -y
+```
+
+## ︻デ═一 Always use 'fsu' to Run Ubuntu
+```python
+fsu
+```
+
+## ︻デ═一 Always use 'exit' to Logout Ubuntu
+```python
+exit
+```
+
 
 ## 🇮🇳 Welcome By Techno India 🇮🇳
 
