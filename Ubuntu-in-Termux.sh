@@ -1,5 +1,4 @@
-clear                     
-termux-setup-storage -y
+termux-setup-storage
 pkg update -y --assume-yes -o Dpkg::Options::="--force-confold"
 pkg upgrade -y
 pkg install proot-distro -y
