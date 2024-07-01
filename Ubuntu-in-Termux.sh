@@ -40,7 +40,7 @@ echo -e "${RED}🚩 ࿗ Jai Shree Ram ࿗ 🚩
 
  
 
-echo -e "\e[32m===========================================\e[0m" && echo -e "\e[1;34m[*] \e[32mGreat ! Ubuntu Installed Successfully..\e[0m" && echo -e "\e[32m===========================================\e[0m"
+echo -e "\e[32m===========================================\e[0m" && echo -e "\e[1;34m[*] \e[32mGreat ! \e[1;31mUbuntu Installed Successfully..\e[0m" && echo -e "\e[32m===========================================\e[0m"
 echo -e "${PINK}︻デ═一 Always use 'fsu' to Run Ubuntu ${ENDCOLOR}"
 echo -e "${PINK}︻デ═一 Always use 'exit' to Logout Ubuntu ${ENDCOLOR}"
 fsu
